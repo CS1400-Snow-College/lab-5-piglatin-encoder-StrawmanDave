@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/bin/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/bin/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/bin/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/bin/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/bin/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/refint/lab-5-piglatin-encoder-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/lab-5-piglatin-encoder-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-5-piglatin-encoder-StrawmanDave/obj/Debug/net8.0/ref/lab-5-piglatin-encoder-StrawmanDave.dll
